@@ -1,1 +1,1 @@
-# Comparación de redaccióm de reqeurimientos (IEEE vs User Story)
+# Comparación de redacción de requerimientos (IEEE vs User Story)
